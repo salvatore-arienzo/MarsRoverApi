@@ -6,10 +6,7 @@ Develop an API that moves a rover around a planet. The planet is represented as 
 
 ### Instructions:
 
-• KEEP TRACK of the time (expressed in MINUTES) it takes to fulfill the assignment. Be honest, you will not be evaluated based on the completion time---in other words, it does not matter if you complete the assignment in 2 hours, rather than in 4 hours, and so on.
-• DEVELOP the MRA program without using TDD. Thus, for example, you can use Test-Last Development (i.e., first write all the production code and, in the end, test it) or Incremental Test-Last Development (i.e., first write the production code for a chunk of functionality and then test it, thus repeat the previous step for any other chunk of functionality). Whatever the development approach is, you must TEST MRA. Moreover, remember to APPLY your design knowledge (e.g., refactor your code when needed). You are allowed to use the IDE you prefer.
-
-### User Stories
+#### User Stories
 
 1. The planet
 
